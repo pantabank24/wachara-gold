@@ -10,7 +10,7 @@ export const BannerSlider = () => {
   const banners = [
     {
       id: 1,
-      title: "ลบพบุรีเช็คทอง",
+      title: "ลพบุรีเช็คทอง",
       subtitle:
         "เช็คทองเงินนาคฟรี X-Ray ยิง % ไถ่ถอนตั๋วจำนำให้ราคาสูง \n 0639289393",
       image: "/images/banner1.png",

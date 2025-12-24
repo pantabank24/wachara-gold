@@ -100,7 +100,7 @@ export default function RootLayout({
                 />
                 <div className=" flex flex-col">
                   <span className="text-default-600 text-lg bg-gradient-to-b from-white to-gray-500 bg-clip-text text-transparent font-bold">
-                    วัชระเช็คทอง ลบพบุรีเช็คทอง
+                    วัชระเช็คทอง ลพบุรีเช็คทอง
                   </span>
                   <span className="text-default-600 text-sm">
                     ร้านเปิดทุกวัน (ยกเว้นวันพฤหัส ฯ) 09:00-19:30
