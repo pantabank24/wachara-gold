@@ -40,10 +40,10 @@ const ModernNavbar = ({ isTransparent }: Props) => {
                   <img src="/images/JKLOGO.png" alt="logo" className=" w-8" />
                   <div className=" flex flex-col">
                     <span className="font-bold  text-xl ml-3 bg-gradient-to-b from-yellow-100 to-yellow-500 bg-clip-text text-transparent">
-                      วัชระเช็คทอง
+                      วัชระเช็คทอง 100%
                     </span>
                     <span className="font-bold  text-xs ml-3 mt-[-5] bg-gradient-to-b from-yellow-100 to-yellow-600 bg-clip-text text-transparent">
-                      เช็คทอง 100% ไถ่ถอนตั๋วโรงรับจำนำ
+                      ไถ่ถอน ตั๋วจำนำ โทร.063-928-9393
                     </span>
                   </div>
                 </div>
