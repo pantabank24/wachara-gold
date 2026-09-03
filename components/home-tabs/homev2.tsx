@@ -744,7 +744,7 @@ const HomeV2 = ({ data, isLoading, service, currentQuots, error }: Props) => {
                   Watchara Gold by จ่าคิง ปากพนัง
                 </span>
                 <span className="text-default-600 text-sm">
-                  ร้านเปิดทุกวัน 09:30-16:30 (แนะนำให้โทรนัดครับ)
+                  เปิดจันทร์ - ศุกร์ 09:00-18:00, เสาร์ 09:00 - 16:00, อาทิตย์หยุด (แนะนำให้โทรนัดครับ)
                 </span>
               </div>
             </div>
